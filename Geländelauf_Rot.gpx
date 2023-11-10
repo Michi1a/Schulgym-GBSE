@@ -1,0 +1,388 @@
+<?xml version="1.0" standalone="yes"?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" creator="KML2GPX.COM" version="1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <name><![CDATA[Geländelauf_Rot.kml]]></name>
+        <desc><![CDATA[Converted from a KML file KML2GPX.COM]]></desc>
+                </metadata>
+
+                
+                                                                                                    
+                <trk>
+                    <name><![CDATA[Geländelauf_Rot.kml_Geländelauf_Rot]]></name>
+                    <desc><![CDATA[This is track no: 1]]></desc>
+                    <number>1</number>
+                    <trkseg>
+                                                                                                                                                                                                <trkpt lat="48.28363507856458" lon="9.705006750778667">
+                                                                                                            <ele>0</ele>
+                                    <name>1</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28354790851927" lon="9.70474150467021">
+                                                                                                            <ele>0</ele>
+                                    <name>2</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28353031335768" lon="9.704226552680019">
+                                                                                                            <ele>0</ele>
+                                    <name>3</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28343553585173" lon="9.703971246967909">
+                                                                                                            <ele>0</ele>
+                                    <name>4</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28330799455596" lon="9.703212908720131">
+                                                                                                            <ele>0</ele>
+                                    <name>5</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28342615245282" lon="9.703019903993271">
+                                                                                                            <ele>0</ele>
+                                    <name>6</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28346693546791" lon="9.702842431057583">
+                                                                                                            <ele>0</ele>
+                                    <name>7</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28341968274076" lon="9.702152082431979">
+                                                                                                            <ele>0</ele>
+                                    <name>8</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28350645312224" lon="9.701958270238524">
+                                                                                                            <ele>0</ele>
+                                    <name>9</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.2844357704407" lon="9.701931646269376">
+                                                                                                            <ele>0</ele>
+                                    <name>10</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28408436439568" lon="9.698165532861683">
+                                                                                                            <ele>0</ele>
+                                    <name>11</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28433294200076" lon="9.697754225959086">
+                                                                                                            <ele>0</ele>
+                                    <name>12</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28435864804868" lon="9.697602943637156">
+                                                                                                            <ele>0</ele>
+                                    <name>13</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28399268884181" lon="9.696274931053674">
+                                                                                                            <ele>0</ele>
+                                    <name>14</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28387549429591" lon="9.695316282031509">
+                                                                                                            <ele>0</ele>
+                                    <name>15</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28386514949176" lon="9.693180010861248">
+                                                                                                            <ele>0</ele>
+                                    <name>16</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.2833711958181" lon="9.690965522398045">
+                                                                                                            <ele>0</ele>
+                                    <name>17</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28302981824076" lon="9.687424290329343">
+                                                                                                            <ele>0</ele>
+                                    <name>18</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28262086330278" lon="9.685680880012971">
+                                                                                                            <ele>0</ele>
+                                    <name>19</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28237044814133" lon="9.685136963235252">
+                                                                                                            <ele>0</ele>
+                                    <name>20</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28159675282816" lon="9.682499024528021">
+                                                                                                            <ele>0</ele>
+                                    <name>21</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28169000580733" lon="9.681181283658857">
+                                                                                                            <ele>0</ele>
+                                    <name>22</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28210170335223" lon="9.680076964551478">
+                                                                                                            <ele>0</ele>
+                                    <name>23</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28234875810305" lon="9.679386578428328">
+                                                                                                            <ele>0</ele>
+                                    <name>24</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28258784726361" lon="9.67907672310281">
+                                                                                                            <ele>0</ele>
+                                    <name>25</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28290006813177" lon="9.679113971926117">
+                                                                                                            <ele>0</ele>
+                                    <name>26</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28290762633918" lon="9.679113295824482">
+                                                                                                            <ele>0</ele>
+                                    <name>27</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28328294121074" lon="9.679481997794337">
+                                                                                                            <ele>0</ele>
+                                    <name>28</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28364810095913" lon="9.679827092184501">
+                                                                                                            <ele>0</ele>
+                                    <name>29</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28405830037389" lon="9.679845280382049">
+                                                                                                            <ele>0</ele>
+                                    <name>30</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28442898572224" lon="9.679405939968898">
+                                                                                                            <ele>0</ele>
+                                    <name>31</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28471136381582" lon="9.678710090618079">
+                                                                                                            <ele>0</ele>
+                                    <name>32</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28482670188421" lon="9.67798206659787">
+                                                                                                            <ele>0</ele>
+                                    <name>33</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28507420657648" lon="9.677632914563006">
+                                                                                                            <ele>0</ele>
+                                    <name>34</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28567282491392" lon="9.677471855069884">
+                                                                                                            <ele>0</ele>
+                                    <name>35</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28596571033475" lon="9.677401791094543">
+                                                                                                            <ele>0</ele>
+                                    <name>36</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28649455086256" lon="9.676717986202013">
+                                                                                                            <ele>0</ele>
+                                    <name>37</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28674643505418" lon="9.676622828015443">
+                                                                                                            <ele>0</ele>
+                                    <name>38</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28677575308097" lon="9.676621080181764">
+                                                                                                            <ele>0</ele>
+                                    <name>39</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28744494043599" lon="9.675812186913518">
+                                                                                                            <ele>0</ele>
+                                    <name>40</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28778915081052" lon="9.675603818206168">
+                                                                                                            <ele>0</ele>
+                                    <name>41</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28819620113983" lon="9.675715286782499">
+                                                                                                            <ele>0</ele>
+                                    <name>42</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28866828786411" lon="9.676433675099412">
+                                                                                                            <ele>0</ele>
+                                    <name>43</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28882867138808" lon="9.676114617870194">
+                                                                                                            <ele>0</ele>
+                                    <name>44</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28906491941127" lon="9.675371809724481">
+                                                                                                            <ele>0</ele>
+                                    <name>45</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28929215326178" lon="9.674452834828703">
+                                                                                                            <ele>0</ele>
+                                    <name>46</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28943776388488" lon="9.67345653161847">
+                                                                                                            <ele>0</ele>
+                                    <name>47</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28939249197227" lon="9.673301562011783">
+                                                                                                            <ele>0</ele>
+                                    <name>48</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28921412487768" lon="9.672991155094033">
+                                                                                                            <ele>0</ele>
+                                    <name>49</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28919738134751" lon="9.672688914225221">
+                                                                                                            <ele>0</ele>
+                                    <name>50</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28923277072099" lon="9.67227955117732">
+                                                                                                            <ele>0</ele>
+                                    <name>51</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.2893093700102" lon="9.67136461301115">
+                                                                                                            <ele>0</ele>
+                                    <name>52</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28941952141099" lon="9.670451793520856">
+                                                                                                            <ele>0</ele>
+                                    <name>53</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28973666224807" lon="9.668826121827813">
+                                                                                                            <ele>0</ele>
+                                    <name>54</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.29035621884803" lon="9.667881371495108">
+                                                                                                            <ele>0</ele>
+                                    <name>55</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.29058049583731" lon="9.667614027366394">
+                                                                                                            <ele>0</ele>
+                                    <name>56</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.29096269330993" lon="9.668078947247366">
+                                                                                                            <ele>0</ele>
+                                    <name>57</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.29134844628207" lon="9.668448398297899">
+                                                                                                            <ele>0</ele>
+                                    <name>58</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.2913558667341" lon="9.668458080731435">
+                                                                                                            <ele>0</ele>
+                                    <name>59</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.29149746267159" lon="9.668784843225438">
+                                                                                                            <ele>0</ele>
+                                    <name>60</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.2916631055002" lon="9.669565137569636">
+                                                                                                            <ele>0</ele>
+                                    <name>61</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.2916640947572" lon="9.669585872977427">
+                                                                                                            <ele>0</ele>
+                                    <name>62</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.29197213080219" lon="9.670715511004906">
+                                                                                                            <ele>0</ele>
+                                    <name>63</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.29218161996295" lon="9.67172117316775">
+                                                                                                            <ele>0</ele>
+                                    <name>64</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.29232123882539" lon="9.672910482054803">
+                                                                                                            <ele>0</ele>
+                                    <name>65</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.29256178848175" lon="9.673956253520867">
+                                                                                                            <ele>0</ele>
+                                    <name>66</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.29271421078708" lon="9.674517619318795">
+                                                                                                            <ele>0</ele>
+                                    <name>67</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.29243854690156" lon="9.675028631819789">
+                                                                                                            <ele>0</ele>
+                                    <name>68</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.29190388015419" lon="9.675807182119439">
+                                                                                                            <ele>0</ele>
+                                    <name>69</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.2915808013835" lon="9.676202531549992">
+                                                                                                            <ele>0</ele>
+                                    <name>70</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28985088840224" lon="9.677879018329552">
+                                                                                                            <ele>0</ele>
+                                    <name>71</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28702212973322" lon="9.680174009528692">
+                                                                                                            <ele>0</ele>
+                                    <name>72</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28606889783557" lon="9.681046419164286">
+                                                                                                            <ele>0</ele>
+                                    <name>73</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28588189079743" lon="9.681542678446872">
+                                                                                                            <ele>0</ele>
+                                    <name>74</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28564997950239" lon="9.682869455629552">
+                                                                                                            <ele>0</ele>
+                                    <name>75</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28579552026084" lon="9.684559859156828">
+                                                                                                            <ele>0</ele>
+                                    <name>76</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28634378541079" lon="9.689148935017144">
+                                                                                                            <ele>0</ele>
+                                    <name>77</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28653453660972" lon="9.690677632511115">
+                                                                                                            <ele>0</ele>
+                                    <name>78</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28603426761772" lon="9.691288174589969">
+                                                                                                            <ele>0</ele>
+                                    <name>79</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28471317793061" lon="9.69156842043472">
+                                                                                                            <ele>0</ele>
+                                    <name>80</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28460416460801" lon="9.691687201212574">
+                                                                                                            <ele>0</ele>
+                                    <name>81</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28454109871519" lon="9.695104590706761">
+                                                                                                            <ele>0</ele>
+                                    <name>82</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28507970973855" lon="9.697483264579631">
+                                                                                                            <ele>0</ele>
+                                    <name>83</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.2857407629737" lon="9.698802444873934">
+                                                                                                            <ele>0</ele>
+                                    <name>84</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28552160230134" lon="9.700269441223171">
+                                                                                                            <ele>0</ele>
+                                    <name>85</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28531075873669" lon="9.701092512150405">
+                                                                                                            <ele>0</ele>
+                                    <name>86</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28531185746991" lon="9.701127010197524">
+                                                                                                            <ele>0</ele>
+                                    <name>87</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28527860366852" lon="9.703552452159077">
+                                                                                                            <ele>0</ele>
+                                    <name>88</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28497266204347" lon="9.704477023145927">
+                                                                                                            <ele>0</ele>
+                                    <name>89</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28367196890498" lon="9.704089538780114">
+                                                                                                            <ele>0</ele>
+                                    <name>90</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28349616988042" lon="9.704574429557644">
+                                                                                                            <ele>0</ele>
+                                    <name>91</name>
+                                </trkpt>
+                                                                                                                                                                                                                                    <trkpt lat="48.28357028077309" lon="9.704943344866486">
+                                                                                                            <ele>0</ele>
+                                    <name>92</name>
+                                </trkpt>
+                                                                                                            
+                    </trkseg>
+                </trk>
+                                                            
+    
+</gpx>
