@@ -1,0 +1,65 @@
+/* Container mit Text*/
+.container
+{
+    min-height: 100px;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.container div{
+width: 900px;
+}
+/*Container für die Strecken*/
+
+.routen
+{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 350px;
+}
+
+.routen div{
+    height: 300px;
+    width:400px;
+    margin:50px;
+    background-color: mintcream;
+    border-width: 2px;
+    border-style: solid;
+    border-radius: 20px;
+    text-align: center;
+}
+.rot h1{
+color: red;
+border-color: red;
+}
+.blau h1{
+    color: blue;
+    border-color: blue;
+ }
+ .schwarz h1{
+    color: black;
+    border-color: black;
+}
+.rot {
+    border-color: red;
+    }
+    .blau {
+        border-color: blue;
+     }
+     .schwarz {
+        border-color: black;
+    }
+.routen img
+{
+height: 200px;
+}
+
+@media(max-width: 830px)
+{
+    .routen{
+    flex-direction: column;
+
+    }
+}
+
