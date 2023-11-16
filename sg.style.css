@@ -33,7 +33,7 @@ width: 900px;
                 flex-direction: column;
                 }
 }
-@media(max-width: 400px)
+@media(max-width: 475px)
 {
         .text1 table td{
             padding: 1px;
